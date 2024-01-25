@@ -1,0 +1,2 @@
+# learningcpp
+Various C++ projects
